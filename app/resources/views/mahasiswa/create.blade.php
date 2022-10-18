@@ -2,11 +2,52 @@
 
 @section('content')
 
+<!-- 
+    Gunakan container dan card
+    <div class="container">
+        <div class="card">
+            <div class="card-header">
+                <h5 class="card-title">Judul Form</h5>
+            </div>
+            <div class="card">
+                ..... Form ....
+
+            </div>            
+        </div>
+
+    </div>
+ -->
+
+
+
+<!-- Format Form Bootstrap
+<div class="form-group row">
+    <div class="col-md-3">
+        <label>Label misal. Nama</label>
+    </div>
+    <div class="col-md-9">
+        <input type="text" name="nama" value="" class="form-control">
+    </div>
+</div
+ -->
+
+<!-- Format Input Type
+    Text/Pendek -> <input type='text'  value=""  .../>
+    Text Panjang (misal alamat) -> <textarea ....> ..value.. </textarea>
+    Tanggal -> <input type='date'  value=""  .../>
+    Email -> <input type='email'  value=""  .../>
+    Nomor Telepon -> <input type='tel'  value=""  .../>
+ -->
+
+
     <br>
     <form action="{{ route('mahasiswa.store') }}" method="POST">
         @csrf
         Nama : <input type="text" name="nama" value=""><br>
         Tanggal Lahir : <input type="text" name="tanggal_lahir" value=""><br>
+
+
+
         Alamat : <input type="text" name="alamat"value=""><br>
         NIM : <input type="text" name="nim" value=""><br>
         Perguruan Tinggi : <select>

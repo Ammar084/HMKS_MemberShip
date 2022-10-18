@@ -17,12 +17,15 @@
                     {{ __('You are logged in!') }}
 
                     <br>
+                        <!-- Tambah Menu Dashboard -->
                         <a class="btn btn-info" href="{{ url('mahasiswa') }}">
                             Data Mahasiswa
                         </a>
                         <a class="btn btn-info" href="{{ url('universitas') }}">
                             Data Universitas
                         </a>
+
+                        
                     </br>
                 </div>
             </div>
