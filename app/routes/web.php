@@ -29,6 +29,8 @@ Route::get('/', [App\Http\Controllers\HomeController::class, 'index']);
 Route::resource('pegawai', PegawaiController::class);
 Route::resource('mahasiswa', MahasiswaController::class);
 Route::resource('universitas', UniversitasController::class);
+Route::resource('inputhipmi', \App\Http\Controllers\InputhipmiController::class);
+
 //Route get => pegawai => index
 //Route get => pegawai/create
 //Route post => pegawai => store
