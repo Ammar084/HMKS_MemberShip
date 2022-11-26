@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	<title>Tokoh Muda Kerinci</title>
+	<link rel="icon" type="image/x-icon" href="/assets/favicon.png">
+	<title>Tokoh Muda Kerinci</title>
+	<meta name="title" content="Tokoh Muda Kerinci">
+	<meta name="description" content="Menjadikan Kerinci - Sungai Penuh Pusat Inovasi, Kreatifitas, Komunikasi dan Digital">
 </head>
 
 <link rel="stylesheet" href="app.css">

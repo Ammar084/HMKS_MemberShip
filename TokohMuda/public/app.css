@@ -1430,7 +1430,7 @@ a.nav-link{
 	}
 
 	.team-grid{
-		grid-column-gap: 40px;
+		grid-column-gap: 100px;
 	}
 
 	.team-member-image{
