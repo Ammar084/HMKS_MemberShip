@@ -6,11 +6,12 @@
 	<title>Tokoh Muda Kerinci</title>
 	<meta name="title" content="Tokoh Muda Kerinci">
 	<meta name="description" content="Menjadikan Kerinci - Sungai Penuh Pusat Inovasi, Kreatifitas, Komunikasi dan Digital">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css">
+	<link rel="stylesheet" href="app.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+	
 </head>
-
-<link rel="stylesheet" href="app.css">
-
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <body>
 	<nav>
