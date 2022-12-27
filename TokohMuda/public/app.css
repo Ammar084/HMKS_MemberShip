@@ -888,15 +888,16 @@ p {
 		-ms-flex-align: center;
 		align-items: center;
 		grid-auto-columns: 1fr;
-		grid-column-gap: 16px;
-		grid-row-gap: 16px;
+		grid-column-gap: 10px;
+		grid-row-gap: 10px;
 		grid-template-columns: 1fr;
 		-ms-grid-rows: auto auto;
 		grid-template-rows: auto auto;
 	}
 
 	.team-member-image{
-		width: 173px;
+		width: 130px;
+		height: 130px;
 	}
 
 	.footer-form-two{

@@ -55,7 +55,9 @@
           <img src="assets/berita1.png" alt="">
         </div>
         <div class="card">
-          <h2>Juara 1 MTQ Ke-51</h2>
+			<a href="https://www.instagram.com/p/ClIonIiPjTc/?utm_source=ig_web_copy_link">
+				<h2>Juara 1 MTQ Ke-51</h2>
+			</a>
           <p>Kaum Muda</p>
         </div>
       </div>
@@ -65,8 +67,10 @@
           <img src="assets/berita2.png" alt="">
         </div>
         <div class="card">
-          <h2>Pemuda Pelopor</h2>
-          <p>Kaum Muda</p>
+			<a href="https://www.instagram.com/p/ClIoOalPj4E/?utm_source=ig_web_copy_link">
+				<h2>Pemuda Pelopor</h2>
+			</a>
+			<p>Kaum Muda</p>
         </div>
       </div>
 
@@ -75,7 +79,9 @@
           <img src="assets/berita3.png" alt="">
         </div>
         <div class="card">
-          <h2>Beasiswa Oyisi</h2>
+			<a href="https://www.instagram.com/p/Ck9mxAEP8bz/?utm_source=ig_web_copy_link">
+				<h2>Beasiswa Oyisi</h2>
+			</a>
           <p>Tokoh Muda</p>
         </div>
       </div>
@@ -85,7 +91,9 @@
           <img src="assets/berita4.png" alt="">
         </div>
         <div class="card">
-          <h2>Workshop Digital Marketing</h2>
+			<a href="https://www.instagram.com/p/CkuVMPHvtcL/?utm_source=ig_web_copy_link">
+				<h2>Workshop Digital Marketing</h2>
+			</a>
           <p>Tokoh Muda</p>
         </div>
       </div>
@@ -237,7 +245,7 @@
 		<div class="container">
 			<div class="footer-wrapper-three">
 				<div class="footer-social-block-three">
-					<a href="#" class="footer-social-block-three w-inline-block" loading="lazy" alt="" class="image-6">
+					<a href="https://www.instagram.com/tokohmudakerinci/?hl=id" class="footer-social-block-three w-inline-block" loading="lazy" alt="" class="image-6">
 						<div class="text-block">@tokohmudakerinci</div>
 					</a>
 				</div>
@@ -246,8 +254,8 @@
 			<div class="footer-bottom">
 				<div class="footer-copyright">@ 2002 Tokoh Muda. All right reserved</div>
 				<div class="footer-legal-block">
-					<a href="" class="footer-legal-link">#tokohmudakerinci</a>
-					<a href="" class="footer-legal-link">#2024panggunganakmuda</a>
+					<a href="https://www.instagram.com/explore/tags/tokohmudakerinci/?hl=id" class="footer-legal-link">#tokohmudakerinci</a>
+					<a href="https://www.instagram.com/explore/tags/2024panggunganakmuda/?hl=id" class="footer-legal-link">#2024panggunganakmuda</a>
 				</div>
 			</div>
 		</div>
