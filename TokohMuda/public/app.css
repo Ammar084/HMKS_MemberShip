@@ -699,7 +699,7 @@ p {
 
 .card {
     padding: 1rem;
-    background: #ff9500;
+	background-color: #ff9500;
     border-bottom-left-radius: 1.75rem;
     border-bottom-right-radius: 1.75rem;
 }

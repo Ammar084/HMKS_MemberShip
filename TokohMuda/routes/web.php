@@ -16,3 +16,7 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('home');
 });
+
+Route::get('/tokoh/{id}', function($id){
+    return view('tokoh.'.$id);
+});

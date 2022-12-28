@@ -6,10 +6,11 @@
 	<title>Tokoh Muda Kerinci</title>
 	<meta name="title" content="Tokoh Muda Kerinci">
 	<meta name="description" content="Menjadikan Kerinci - Sungai Penuh Pusat Inovasi, Kreatifitas, Komunikasi dan Digital">
-	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css">
-	<link rel="stylesheet" href="app.css">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+	<script src="https://code.jquery.com/jquery-3.6.3.min.js" integrity="sha256-pvPw+upLPUjgMXY0G+8O0xUf+/Im1MZjXxxgOcBQBXU=" crossorigin="anonymous"></script>
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="app.css">
 	
 </head>
 
@@ -100,140 +101,143 @@
       </div>
     </div>
 
+
 	<section class="team-circles wf-section">
 		<div class="container">
 			<h2 class="centered-heading-2">Tokoh Muda Kerinci</h2>
 			<p class="centered-subheading">Tokoh Muda Membangun Negeri</p>
 			<div class="team-grid">
-				<div id="" class="team-card"><img src="assets/bg_ahmad.jpg" loading="lazy" alt="" class="team-member-image">
+
+				<div id="" class="team-card" onclick="ShowModal('ahmad')"><img src="assets/bg_ahmad.jpg" loading="lazy" alt="" class="team-member-image">
 					<div class="team-member-name">Ahmad Hafizd</div>
 					<div class="team-member-position">Witbox</div>
 				</div>
-				<div id="" class="team-card"><img src="assets/OIP.jpg" loading="lazy" alt="" class="team-member-image">
+
+				<div id="" class="team-card" onclick="ShowModal('aldiwan')"><img src="assets/OIP.jpg" loading="lazy" alt="" class="team-member-image">
 					<div class="team-member-name">Aldiwan Haira Putra</div>
 					<div class="team-member-position">ASN</div>
 				</div>
-				<div id="" class="team-card"><img src="assets/bg_andi.jpg" loading="lazy" alt="" class="team-member-image">
+				<div id="" class="team-card" onclick="ShowModal('andi')"><img src="assets/bg_andi.jpg" loading="lazy" alt="" class="team-member-image">
 					<div class="team-member-name">Andi Yalmi</div>
 					<div class="team-member-position">AK Pro</div>
 				</div>
-				<div id="" class="team-card"><img src="assets/bg_angga.jpg" loading="lazy" alt="" class="team-member-image">
+				<div id="" class="team-card" onclick="ShowModal('angga')"><img src="assets/bg_angga.jpg" loading="lazy" alt="" class="team-member-image">
 					<div class="team-member-name">Angga Perdana Hamdani</div>
 					<div class="team-member-position">Ajwa Tour</div>
 				</div>
-				<div id="" class="team-card"><img src="assets/bg_suryono.jpg" loading="lazy" alt="" class="team-member-image">
-					<div class="team-member-name">Suryono Bagastani</div>
-					<div class="team-member-position">Alko Sumatra Kopi</div>
-				</div>
-				<div id="" class="team-card"><img src="assets/bg_darli.jpg" loading="lazy" alt="" class="team-member-image">
+				<div id="" class="team-card" onclick="ShowModal('darli')"><img src="assets/bg_darli.jpg" loading="lazy" alt="" class="team-member-image">
 					<div class="team-member-name">Darli Haryanto</div>
 					<div class="team-member-position">Penggiat Politik</div>
 				</div>
-				<div id="" class="team-card"><img src="assets/bg_dedi.png" loading="lazy" alt="" class="team-member-image">
+				<div id="" class="team-card" onclick="ShowModal('dedi')"><img src="assets/bg_dedi.png" loading="lazy" alt="" class="team-member-image">
 					<div class="team-member-name">Dedi Handoko</div>
 					<div class="team-member-position">Komunitas Muda Berpengaruh</div>
 				</div>
-				<div id="" class="team-card"><img src="assets/bg_dese.jpg" loading="lazy" alt="" class="team-member-image">
+				<div id="" class="team-card" onclick="ShowModal('dedis')"><img src="assets/bg_dese.jpg" loading="lazy" alt="" class="team-member-image">
 					<div class="team-member-name">Dedi Setiawan Sulirman</div>
 					<div class="team-member-position">Raja Kerinci Mandiri</div>
 				</div>
-				<div id="" class="team-card"><img src="assets/bg_ebby.jpg" loading="lazy" alt="" class="team-member-image">
+				<div id="" class="team-card" onclick="ShowModal('ebby')"><img src="assets/bg_ebby.jpg" loading="lazy" alt="" class="team-member-image">
 					<div class="team-member-name">Ebby Sastra Anarki</div>
 					<div class="team-member-position">D'Gigs</div>
 				</div>
-				<div id="" class="team-card"><img src="assets/bg_eval.jpg" loading="lazy" alt="" class="team-member-image">
+				<div id="" class="team-card" onclick="ShowModal('eval')"><img src="assets/bg_eval.jpg" loading="lazy" alt="" class="team-member-image">
 					<div class="team-member-name">Eval Edmizal</div>
 					<div class="team-member-position">Eo Sport Group</div>
 				</div>
-				<div id="" class="team-card"><img src="assets/bg_fikar.png" loading="lazy" alt="" class="team-member-image">
+				<div id="" class="team-card" onclick="ShowModal('fikar')"><img src="assets/bg_fikar.png" loading="lazy" alt="" class="team-member-image">
 					<div class="team-member-name">Fikar Azami</div>
 					<div class="team-member-position">Tokoh Politik</div>
 				</div>
-				<div id="" class="team-card"><img src="assets/bg_geno.jpg" loading="lazy" alt="" class="team-member-image">	
+				<div id="" class="team-card" onclick="ShowModal('geno')"><img src="assets/bg_geno.jpg" loading="lazy" alt="" class="team-member-image">	
 					<div class="team-member-name">Geno Alfinza Harefa</div>
 					<div class="team-member-position">Toqoo ID</div>
 				</div>
-				<div id="" class="team-card"><img src="assets/bg_hafiful.jpg" loading="lazy" alt="" class="team-member-image">	
+				<div id="" class="team-card" onclick="ShowModal('hafiful')"><img src="assets/bg_hafiful.jpg" loading="lazy" alt="" class="team-member-image">	
 					<div class="team-member-name">Hafiful H. Sunliesyar</div>
 					<div class="team-member-position">Budayawan</div>
 				</div>
-				<div id="" class="team-card"><img src="assets/bg_hendra.jpg" loading="lazy" alt="" class="team-member-image">	
+				<div id="" class="team-card" onclick="ShowModal('hendra')"><img src="assets/bg_hendra.jpg" loading="lazy" alt="" class="team-member-image">	
 					<div class="team-member-name">Hendra Gustami</div>
 					<div class="team-member-position">Bank Sampah</div>
 				</div>
-				<div id="" class="team-card"><img src="assets/bg_ifwan.jpg" loading="lazy" alt="" class="team-member-image">	
+				<div id="" class="team-card" onclick="ShowModal('ifwan')"><img src="assets/bg_ifwan.jpg" loading="lazy" alt="" class="team-member-image">	
 					<div class="team-member-name">Ifwan Adinata</div>
 					<div class="team-member-position">Cakap Kreatif</div>
 				</div>
-				<div id="" class="team-card"><img src="assets/bg_jamin.jpg" loading="lazy" alt="" class="team-member-image">	
+				<div id="" class="team-card" onclick="ShowModal('jamin')"><img src="assets/bg_jamin.jpg" loading="lazy" alt="" class="team-member-image">	
 					<div class="team-member-name">Jamin Sardi Mardi</div>
 					<div class="team-member-position">Depati Coffee</div>
 				</div>
-				<div id="" class="team-card"><img src="assets/bg_juanda.jpg" loading="lazy" alt="" class="team-member-image">	
+				<div id="" class="team-card" onclick="ShowModal('juanda')"><img src="assets/bg_juanda.jpg" loading="lazy" alt="" class="team-member-image">	
 					<div class="team-member-name">Juanda Alber</div>
 					<div class="team-member-position">Juanda Sport</div>
 				</div>
-				<div id="" class="team-card"><img src="assets/bg_kirana.jpg" loading="lazy" alt="" class="team-member-image">	
+				<div id="" class="team-card" onclick="ShowModal('kirana')"><img src="assets/bg_kirana.jpg" loading="lazy" alt="" class="team-member-image">	
 					<div class="team-member-name">Kirana Pungki Apsari</div>
 					<div class="team-member-position">Aktivis Wanita</div>
 				</div>
-				<div id="" class="team-card"><img src="assets/bg_falensky.jfif" loading="lazy" alt="" class="team-member-image">	
+				<div id="" class="team-card" onclick="ShowModal('falensky')"><img src="assets/bg_falensky.jfif" loading="lazy" alt="" class="team-member-image">	
 					<div class="team-member-name">M. Attoriq Falensky</div>
 					<div class="team-member-position">Sungai Inspirasi</div>
 				</div>
-				<div id="" class="team-card"><img src="assets/bg_ridho.jpg" loading="lazy" alt="" class="team-member-image">	
+				<div id="" class="team-card" onclick="ShowModal('ridho')"><img src="assets/bg_ridho.jpg" loading="lazy" alt="" class="team-member-image">	
 					<div class="team-member-name">M. Ridho Syahlindra</div>
 					<div class="team-member-position">Kontraktor</div>
 				</div>
-				<div id="" class="team-card"><img src="assets/bg_mridho.jpg" loading="lazy" alt="" class="team-member-image">	
+				<div id="" class="team-card" onclick="ShowModal('mridho')"><img src="assets/bg_mridho.jpg" loading="lazy" alt="" class="team-member-image">	
 					<div class="team-member-name">M. Ridho Azhari</div>
 					<div class="team-member-position">Oyisi Indonesia</div>
 				</div>
-				<div id="" class="team-card"><img src="assets/bg_zacky.jpg" loading="lazy" alt="" class="team-member-image">	
+				<div id="" class="team-card" onclick="ShowModal('zacky')"><img src="assets/bg_zacky.jpg" loading="lazy" alt="" class="team-member-image">	
 					<div class="team-member-name">M. Zacky Zaid</div>
 					<div class="team-member-position">Penggiat Pariwisata</div>
 				</div>
-				<div id="" class="team-card"><img src="assets/bg_mielgi.jpg" loading="lazy" alt="" class="team-member-image">	
+				<div id="" class="team-card" onclick="ShowModal('mielgi')"><img src="assets/bg_mielgi.jpg" loading="lazy" alt="" class="team-member-image">	
 					<div class="team-member-name">Mielgi L Indra</div>
 					<div class="team-member-position">Kerinci People</div>
 				</div>
-				<div id="" class="team-card"><img src="assets/bg_ori.jpg" loading="lazy" alt="" class="team-member-image">	
+				<div id="" class="team-card"onclick="ShowModal('ori')"><img src="assets/bg_ori.jpg" loading="lazy" alt="" class="team-member-image">	
 					<div class="team-member-name">Ori Zandra</div>
 					<div class="team-member-position">Aktivis</div>
 				</div>	
-				<div id="" class="team-card"><img src="assets/bg_pandji.jpeg" loading="lazy" alt="" class="team-member-image">
+				<div id="" class="team-card" onclick="ShowModal('pandji')"><img src="assets/bg_pandji.jpeg" loading="lazy" alt="" class="team-member-image">
 					<div class="team-member-name">Panji Abdiandra</div>
 					<div class="team-member-position">Noka Coffe</div>
 				</div>
-				<div id="" class="team-card"><img src="assets/bg_rangga.jpg" loading="lazy" alt="" class="team-member-image">	
+				<div id="" class="team-card" onclick="ShowModal('rangga')"><img src="assets/bg_rangga.jpg" loading="lazy" alt="" class="team-member-image">	
 					<div class="team-member-name">Rangga Adi Putra</div>
 					<div class="team-member-position">Kayo Group</div>
 				</div>
-				<div id="" class="team-card"><img src="assets/bg_rifki.jpg" loading="lazy" alt="" class="team-member-image">	
+				<div id="" class="team-card" onclick="ShowModal('rifki')"><img src="assets/bg_rifki.jpg" loading="lazy" alt="" class="team-member-image">	
 					<div class="team-member-name">Rifki Darmawan</div>
 					<div class="team-member-position">Depati Digital</div>
 				</div>
-				<div id="" class="team-card"><img src="assets/bg_robbi.jpg" loading="lazy" alt="" class="team-member-image">	
+				<div id="" class="team-card" onclick="ShowModal('robbi')"><img src="assets/bg_robbi.jpg" loading="lazy" alt="" class="team-member-image">	
 					<div class="team-member-name">Robbi</div>
 					<div class="team-member-position">PT CGC Lempur</div>
 				</div>
-				<div id="" class="team-card"><img src="assets/bg_syuhada.jpg" loading="lazy" alt="" class="team-member-image">	
+				<div id="" class="team-card" onclick="ShowModal('suryono')"><img src="assets/bg_suryono.jpg" loading="lazy" alt="" class="team-member-image">
+					<div class="team-member-name">Suryono Bagastani</div>
+					<div class="team-member-position">Alko Sumatra Kopi</div>
+				</div>
+				<div id="" class="team-card" onclick="ShowModal('syuhada')"><img src="assets/bg_syuhada.jpg" loading="lazy" alt="" class="team-member-image">	
 					<div class="team-member-name">Syuhada</div>
 					<div class="team-member-position">Enterpreneur</div>
 				</div>
-				<div id="" class="team-card"><img src="assets/bg_tri.jpg" loading="lazy" alt="" class="team-member-image">	
+				<div id="" class="team-card" onclick="ShowModal('tri')"><img src="assets/bg_tri.jpg" loading="lazy" alt="" class="team-member-image">	
 					<div class="team-member-name">Tri Firmansyah</div>
 					<div class="team-member-position">Kelas Inspirasi Kerinci</div>
 				</div>
-				<div id="" class="team-card"><img src="assets/bg_wahyu.jpg" loading="lazy" alt="" class="team-member-image">	
+				<div id="" class="team-card" onclick="ShowModal('wahyu')"><img src="assets/bg_wahyu.jpg" loading="lazy" alt="" class="team-member-image">	
 					<div class="team-member-name">Wahyu Juari</div>
 					<div class="team-member-position">Kontraktor</div>
 				</div>
-				<div id="" class="team-card"><img src="assets/bg_yoni.jfif" loading="lazy" alt="" class="team-member-image">	
+				<div id="" class="team-card" onclick="ShowModal('yoni')"><img src="assets/bg_yoni.jfif" loading="lazy" alt="" class="team-member-image">	
 					<div class="team-member-name">Yoni Elviandra Arrajid</div>
 					<div class="team-member-position">Lentera Muda Kerinci</div>
 				</div>
-				<div id="" class="team-card"><img src="assets/bg_yuda.jpg" loading="lazy" alt="" class="team-member-image">	
+				<div id="" class="team-card" onclick="ShowModal('yuda')"><img src="assets/bg_yuda.jpg" loading="lazy" alt="" class="team-member-image">	
 					<div class="team-member-name">Yuda Oktana</div>
 					<div class="team-member-position">Volunteer Anak Kincai</div>
 				</div>
@@ -261,6 +265,29 @@
 			</div>
 		</div>
 	</section>
+
+
+		<script>
+			function ShowModal($tokoh) {
+				$('#TokohMuda').load('tokoh/'+$tokoh)
+				$('#myModal').modal('show');
+			}
+		</script>
+	<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+	  <div class="modal-dialog" role="document">
+	    <div class="modal-content">
+	      <div class="modal-header">
+	        <h5 class="modal-title" id="myModalLabel">Detail Tokoh</h5>
+	      </div>
+	      <div class="modal-body" id="TokohMuda">
+	      </div>
+	      <div class="modal-footer">
+	        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+	        <button type="button" class="btn btn-primary">Vote</button>
+	      </div>
+	    </div>
+	  </div>
+	</div>
 
 	<script src="script.js"></script>
 </body>
