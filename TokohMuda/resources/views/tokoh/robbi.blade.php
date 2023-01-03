@@ -4,17 +4,5 @@
 	        <p>Projek yang sedang berjalan</p>
 	        <div>
 	        	<h3>Social Media</h3>
-	        	<a href="" target="_blank">Instagram</a>
-	        	<a href="">Facebook</a>
-	        </div>
-	        <div>
-	        	<h3>Tautan</h3>
-	        	
-	        	<div>
-	        		<a href="">Wikipedia</a>
-	        	</div>
-	        	<div>
-	        		<a href="">Projek</a>	
-	        	</div>
-	        	
+	        	<a href="https://www.facebook.com/profile.php?id=100020027348156" target="_blank">Facebook</a>
 	        </div>

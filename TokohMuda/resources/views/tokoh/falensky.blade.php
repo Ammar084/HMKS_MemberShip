@@ -5,7 +5,6 @@
 	        <div>
 	        	<h3>Social Media</h3>
 	        	<a href="https://www.instagram.com/falensky_fadel/" target="_blank">Instagram</a>
-	        	<a href="">Facebook</a>
 	        </div>
 	        <div>
 	        	<h3>Tautan</h3>

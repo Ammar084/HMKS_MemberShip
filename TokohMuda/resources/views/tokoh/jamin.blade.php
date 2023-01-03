@@ -5,7 +5,6 @@
 	        <div>
 	        	<h3>Social Media</h3>
 	        	<a href="https://www.instagram.com/safdi87/" target="_blank">Instagram</a>
-	        	<a href="">Facebook</a>
 	        </div>
 	        <div style="margin-top: 30px;">
 	        	<h3>Tautan</h3>
