@@ -11,10 +11,6 @@
 	        	<h3>Tautan</h3>
 	        	
 	        	<div>
-	        		<a href="">Wikipedia</a>
+	        		<a href="https://www.instagram.com/noka.coffee/">Noka Coffee</a>
 	        	</div>
-	        	<div>
-	        		<a href="">Projek</a>	
-	        	</div>
-	        	
 	        </div>

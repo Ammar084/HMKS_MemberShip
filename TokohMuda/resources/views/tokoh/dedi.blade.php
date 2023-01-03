@@ -7,14 +7,10 @@
 	        	<a href="https://www.instagram.com/dedihanz/" target="_blank">Instagram</a>
 	        	<a href="https://www.facebook.com/dexecutive.perfume.3" target="_blank">Facebook</a>
 	        </div>
-	        <div>
+	        <div style="margin-top: 30px;">
 	        	<h3>Tautan</h3>
-	        	
 	        	<div>
-	        		<a href="">Wikipedia</a>
-	        	</div>
-	        	<div>
-	        		<a href="">Projek</a>	
+	        		<a href="https://www.instagram.com/mudaberpengaruh/">Komunitas Muda Berpengaruh</a>	
 	        	</div>
 	        	
 	        </div>

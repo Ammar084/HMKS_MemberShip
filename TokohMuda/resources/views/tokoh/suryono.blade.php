@@ -7,14 +7,10 @@
 	        	<a href="https://www.instagram.com/suryono_bagastani_alko/" target="_blank">Instagram</a>
 	        	<a href="https://www.facebook.com/suryonobagastani" target="_blank">Facebook</a>
 	        </div>
-	        <div>
+	        <div style="margin-top: 30px;">
 	        	<h3>Tautan</h3>
 	        	
 	        	<div>
-	        		<a href="">Wikipedia</a>
+	        		<a href="https://www.instagram.com/alkosumatrakopi/">ALKO</a>
 	        	</div>
-	        	<div>
-	        		<a href="">Projek</a>	
-	        	</div>
-	        	
 	        </div>

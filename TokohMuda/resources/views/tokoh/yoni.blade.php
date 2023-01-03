@@ -7,14 +7,10 @@
 	        	<a href="https://www.instagram.com/yoni.arrajid/" target="_blank">Instagram</a>
 	        	<a href="https://www.instagram.com/wahyujuari/" target="_blank">Facebook</a>
 	        </div>
-	        <div>
+	        <div style="margin-top: 30px;">
 	        	<h3>Tautan</h3>
 	        	
 	        	<div>
-	        		<a href="">Wikipedia</a>
+	        		<a href="https://www.instagram.com/lenteramudakerinci/">Lentera Muda Kerinci</a>
 	        	</div>
-	        	<div>
-	        		<a href="">Projek</a>	
-	        	</div>
-	        	
 	        </div>

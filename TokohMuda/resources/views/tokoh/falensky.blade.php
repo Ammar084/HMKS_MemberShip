@@ -11,10 +11,7 @@
 	        	<h3>Tautan</h3>
 	        	
 	        	<div>
-	        		<a href="">Wikipedia</a>
-	        	</div>
-	        	<div>
-	        		<a href="">Projek</a>	
+	        		<a href="https://www.linkedin.com/in/falensky">Linkedin</a>	
 	        	</div>
 	        	
 	        </div>

@@ -7,14 +7,11 @@
 	        	<a href="https://www.instagram.com/indra.arts/" target="_blank">Instagram</a>
 	        	<a href="https://www.facebook.com/Chester.Mielgi" target="_blank">Facebook</a>
 	        </div>
-	        <div>
+	        <div style="margin-top: 30px;">
 	        	<h3>Tautan</h3>
 	        	
 	        	<div>
-	        		<a href="">Wikipedia</a>
-	        	</div>
-	        	<div>
-	        		<a href="">Projek</a>	
-	        	</div>
-	        	
+	        		<a href="https://www.instagram.com/kerincipeople/">IG : Kerinci People</a>
+					<a href="https://www.youtube.com/c/KerinciPeople">YT : Kerinci People</a>
+	        	</div>	
 	        </div>

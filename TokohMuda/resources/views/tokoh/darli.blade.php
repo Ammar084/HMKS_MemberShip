@@ -7,14 +7,3 @@
 	        	<a href="https://www.instagram.com/darliharyanto/" target="_blank">Instagram</a>
 	        	<a href="https://www.facebook.com/brayen.ly" target="_blank">Facebook</a>
 	        </div>
-	        <div>
-	        	<h3>Tautan</h3>
-	        	
-	        	<div>
-	        		<a href="">Wikipedia</a>
-	        	</div>
-	        	<div>
-	        		<a href="">Projek</a>	
-	        	</div>
-	        	
-	        </div>

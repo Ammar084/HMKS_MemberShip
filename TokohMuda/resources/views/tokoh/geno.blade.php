@@ -7,14 +7,10 @@
 	        	<a href="https://www.instagram.com/genoalfinza/" target="_blank">Instagram</a>
 	        	<a href="https://www.facebook.com/geno.alfinza" target="_blank">Facebook</a>
 	        </div>
-	        <div>
+	        <div style="margin-top: 30px;">
 	        	<h3>Tautan</h3>
-	        	
 	        	<div>
-	        		<a href="">Wikipedia</a>
-	        	</div>
-	        	<div>
-	        		<a href="">Projek</a>	
+	        		<a href="https://www.instagram.com/toqoo.id/">Toqoo ID</a>	
 	        	</div>
 	        	
 	        </div>

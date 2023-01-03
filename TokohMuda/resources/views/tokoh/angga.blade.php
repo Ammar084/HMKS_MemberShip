@@ -7,14 +7,13 @@
 	        	<a href="https://www.instagram.com/angga_perdana_hamdani/" target="_blank">Instagram</a>
 	        	<a href="https://www.facebook.com/angga.perdanahamdani" target="_blank">Facebook</a>
 	        </div>
-	        <div>
+	        <div style="margin-top: 30px;">
 	        	<h3>Tautan</h3>
-	        	
 	        	<div>
-	        		<a href="">Wikipedia</a>
+	        		<a href="https://id.wikipedia.org/wiki/Angga_Perdana_Hamdani">Wikipedia</a>
 	        	</div>
 	        	<div>
-	        		<a href="">Projek</a>	
+	        		<a href="https://www.instagram.com/ajwatourindonesia/">Ajwa Tour</a>	
 	        	</div>
 	        	
 	        </div>

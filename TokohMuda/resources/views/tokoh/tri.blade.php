@@ -4,14 +4,14 @@
 	        <p>Projek yang sedang berjalan</p>
 	        <div>
 	        	<h3>Social Media</h3>
-	        	<a href="https://www.instagram.com/nik__fir/" target="_blank">Instagram</a>
+	        	<a href="https://www.instagram.com/nikka__fir/" target="_blank">Instagram</a>
 	        	<a href="" target="_blank">Facebook</a>
 	        </div>
-	        <div>
+	        <div style="margin-top: 30px;">
 	        	<h3>Tautan</h3>
 	        	
 	        	<div>
-	        		<a href="">Wikipedia</a>
+	        		<a href="instagram.com/kelasinspirasikerinci/">Kelas Inspirasi Kerinci</a>
 	        	</div>
 	        	<div>
 	        		<a href="">Projek</a>	

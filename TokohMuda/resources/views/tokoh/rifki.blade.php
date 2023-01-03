@@ -7,14 +7,11 @@
 	        	<a href="https://www.instagram.com/rifki.dpt/" target="_blank">Instagram</a>
 	        	<a href="https://www.facebook.com/bangrifkid" target="_blank">Facebook</a>
 	        </div>
-	        <div>
+	        <div style="margin-top: 30px;">
 	        	<h3>Tautan</h3>
 	        	
 	        	<div>
-	        		<a href="">Wikipedia</a>
-	        	</div>
-	        	<div>
-	        		<a href="">Projek</a>	
-	        	</div>
-	        	
+	        		<a href="https://depatidigital.com/">Web : Depati Digital</a>
+					<a href="https://www.instagram.com/depatidigital/">IG : Depati Digital</a>					
+	        	</div>	        	
 	        </div>

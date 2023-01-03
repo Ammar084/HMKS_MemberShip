@@ -7,14 +7,3 @@
 	        	<a href="https://www.instagram.com/andy_alkrienciehie/" target="_blank">Instagram</a>
 	        	<a href="https://www.facebook.com/andy.alkrienciehie" target="_blank">Facebook</a>
 	        </div>
-	        <div>
-	        	<h3>Tautan</h3>
-	        	
-	        	<div>
-	        		<a href="">Wikipedia</a>
-	        	</div>
-	        	<div>
-	        		<a href="">Projek</a>	
-	        	</div>
-	        	
-	        </div>

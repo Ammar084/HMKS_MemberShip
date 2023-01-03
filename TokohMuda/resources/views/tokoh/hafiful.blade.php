@@ -7,14 +7,10 @@
 	        	<a href="https://www.instagram.com/hafiful_hadi/" target="_blank">Instagram</a>
 	        	<a href="https://www.facebook.com/hafifulhadi.sunliensyar" target="_blank">Facebook</a>
 	        </div>
-	        <div>
+			<div style="margin-top: 30px;">
 	        	<h3>Tautan</h3>
 	        	
 	        	<div>
-	        		<a href="">Wikipedia</a>
-	        	</div>
-	        	<div>
-	        		<a href="">Projek</a>	
-	        	</div>
-	        	
+	        		<a href="https://www.kompasiana.com/hafifulhadi">Kompasiana Artikel</a>
+	        	</div>       	
 	        </div>

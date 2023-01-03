@@ -7,14 +7,10 @@
 	        	<a href="https://www.instagram.com/safdi87/" target="_blank">Instagram</a>
 	        	<a href="">Facebook</a>
 	        </div>
-	        <div>
+	        <div style="margin-top: 30px;">
 	        	<h3>Tautan</h3>
 	        	
 	        	<div>
-	        		<a href="">Wikipedia</a>
-	        	</div>
-	        	<div>
-	        		<a href="">Projek</a>	
-	        	</div>
-	        	
+	        		<a href="https://www.instagram.com/depativiicoffee/">Depati Coffee</a>
+	        	</div>	        	
 	        </div>

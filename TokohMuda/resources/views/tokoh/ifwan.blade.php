@@ -7,14 +7,11 @@
 	        	<a href="https://www.instagram.com/ifwanadinata/" target="_blank">Instagram</a>
 	        	<a href="https://www.facebook.com/ifwan.adinata" target="_blank">Facebook</a>
 	        </div>
-	        <div>
+	        <div style="margin-top: 30px;">
 	        	<h3>Tautan</h3>
 	        	
 	        	<div>
-	        		<a href="">Wikipedia</a>
-	        	</div>
-	        	<div>
-	        		<a href="">Projek</a>	
+	        		<a href="https://www.instagram.com/cakapkreatif/">Cakap Kreatif</a>
 	        	</div>
 	        	
 	        </div>

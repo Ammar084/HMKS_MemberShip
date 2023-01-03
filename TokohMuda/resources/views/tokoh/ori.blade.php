@@ -7,14 +7,14 @@
 	        	<a href="https://www.instagram.com/ori.dzandra_/" target="_blank">Instagram</a>
 	        	<a href="https://www.facebook.com/OriDeltiZandra">Facebook</a>
 	        </div>
-	        <div>
+	        <div style="margin-top: 30px;">
 	        	<h3>Tautan</h3>
 	        	
 	        	<div>
-	        		<a href="">Wikipedia</a>
+	        		<a href="https://www.instagram.com/apobo.design/">Apobo Design</a>
 	        	</div>
 	        	<div>
-	        		<a href="">Projek</a>	
+	        		<a href="https://www.instagram.com/kampungbelajarilirdusun/">Kampung Belajar Ilir Dusun</a>	
 	        	</div>
 	        	
 	        </div>
