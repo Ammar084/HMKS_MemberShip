@@ -4,17 +4,13 @@
 	        <p>Projek yang sedang berjalan</p>
 	        <div>
 	        	<h3>Social Media</h3>
-	        	<a href="https://www.instagram.com/_dese11/s" target="_blank">Instagram</a>
+	        	<a href="https://www.instagram.com/_dese11/" target="_blank">Instagram</a>
 	        	<a href="https://www.facebook.com/dedi.setiawansulirman" target="_blank">Facebook</a>
 	        </div>
-	        <div>
+	        <div style="margin-top: 30px;">
 	        	<h3>Tautan</h3>
-	        	
 	        	<div>
-	        		<a href="">Wikipedia</a>
-	        	</div>
-	        	<div>
-	        		<a href="">Projek</a>	
+	        		<a href="https://www.instagram.com/rkm_group_/">Raja Kerinci Mandiri</a>	
 	        	</div>
 	        	
 	        </div>
