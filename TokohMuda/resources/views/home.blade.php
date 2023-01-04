@@ -23,7 +23,7 @@
 		<ul>
 			<li><a href="">Home</a></li>
 			<li><a href="">Tokoh Muda</a></li>
-			<li><a href="">Rangkings</a></li>
+			<li><a href="">Kontak</a></li>
 		</ul>
 
 		<div class="menu-toggle">
@@ -36,71 +36,73 @@
 
 	<section class="hero-heading-center wf-section">
 		<div class="container">
-			<h1 class="centered-heading margin-bottom-32px">Tokoh Muda Kerinci</h1>
 			<div class="hero-wrapper">
 				<div class="hero-split">
-					<h1 class="margin-bottom-24px" style="font-size: 40px; padding: 0;">HEI FIGUR MUDA!</h1>
-					<p class="margin-bottom-24px">Kami Mendorong Seluruh Generasi Muda Kerinci - Sungai Penuh Untuk Berkarya, 100 Figur Muda Inovatif, 100rb Genereasi Muda Majukan Kerinci - Sungai Penuh Ikuti Cerita Kami</p>
+					<h1 class="margin-bottom-24px" style="font-size: 40px; padding: 0;">PANGGUNGNYA</h1>
+					<h1 class="margin-bottom-24px-2" style="font-size: 40px; padding: 0;">ANAK MUDA</h1>
+					<p class="margin-bottom-24px-p">Kami Mendorong Seluruh Generasi Muda Kerinci - Sungai Penuh Untuk Berkarya, 100 Figur Muda Inovatif, 100rb Genereasi Muda Majukan Kerinci - Sungai Penuh Ikuti Cerita Kami</p>
 				</div>
 				<div class="hero-split"><img src="assets/asd.png" loading="lazy" srcset="" width="100%" alt="TokohMuda" class="shadow-two"></div>
 			</div>
 		</div>
 	</section>
 
-	<div class="title">
-      <h1>Tokoh Muda Terkini</h1>
-    </div>
+	<section class="hero-heading-center-2">
+		<div class="title">
+		<h1>Tokoh Muda Terkini</h1>
+		</div>
 
-    <div class="wrapper">
-      <div class="container2">
-        <div class="photo">
-          <img src="assets/berita1.png" alt="">
-        </div>
-        <div class="card">
-			<a href="https://www.instagram.com/p/ClIonIiPjTc/?utm_source=ig_web_copy_link">
-				<h2>Juara 1 MTQ Ke-51</h2>
-			</a>
-          <p>Kaum Muda</p>
-        </div>
-      </div>
+		<div class="wrapper">
+		<div class="container2">
+			<div class="photo">
+			<img src="assets/berita1.png" alt="">
+			</div>
+			<div class="card">
+				<a href="https://www.instagram.com/p/ClIonIiPjTc/?utm_source=ig_web_copy_link">
+					<h2 class="card-text">Juara 1 MTQ Ke-51</h2>
+				</a>
+				<p class="card-text">Kaum Muda</p>
+			</div>
+		</div>
 
-      <div class="container2">
-        <div class="photo">
-          <img src="assets/berita2.png" alt="">
-        </div>
-        <div class="card">
-			<a href="https://www.instagram.com/p/ClIoOalPj4E/?utm_source=ig_web_copy_link">
-				<h2>Pemuda Pelopor</h2>
-			</a>
-			<p>Kaum Muda</p>
-        </div>
-      </div>
+		<div class="container2">
+			<div class="photo">
+			<img src="assets/berita2.png" alt="">
+			</div>
+			<div class="card">
+				<a href="https://www.instagram.com/p/ClIoOalPj4E/?utm_source=ig_web_copy_link">
+					<h2 class="card-text">Pemuda Pelopor</h2>
+				</a>
+				<p class="card-text">Kaum Muda</p>
+			</div>
+		</div>
 
-      <div class="container2">
-        <div class="photo">
-          <img src="assets/berita3.png" alt="">
-        </div>
-        <div class="card">
-			<a href="https://www.instagram.com/p/Ck9mxAEP8bz/?utm_source=ig_web_copy_link">
-				<h2>Beasiswa Oyisi</h2>
-			</a>
-          <p>Tokoh Muda</p>
-        </div>
-      </div>
-      
-      <div class="container2">
-        <div class="photo">
-          <img src="assets/berita4.png" alt="">
-        </div>
-        <div class="card">
-			<a href="https://www.instagram.com/p/CkuVMPHvtcL/?utm_source=ig_web_copy_link">
-				<h2>Workshop Digital Marketing</h2>
-			</a>
-          <p>Tokoh Muda</p>
-        </div>
-      </div>
-    </div>
-
+		<div class="container2">
+			<div class="photo">
+			<img src="assets/berita3.png" alt="">
+			</div>
+			<div class="card">
+				<a href="https://www.instagram.com/p/Ck9mxAEP8bz/?utm_source=ig_web_copy_link">
+					<h2 class="card-text">Beasiswa Oyisi</h2>
+				</a>
+			<p class="card-text">Tokoh Muda</p>
+			</div>
+		</div>
+		
+		<div class="container2">
+			<div class="photo">
+			<img src="assets/berita4.png" alt="">
+			</div>
+			<div class="card">
+				<a href="https://www.instagram.com/p/CkuVMPHvtcL/?utm_source=ig_web_copy_link">
+					<h2 class="card-text">Workshop Digital Marketing</h2>
+				</a>
+			<p class="card-text">Tokoh Muda</p>
+			</div>
+		</div>
+		</div>
+	</section>
+	
 
 	<section class="team-circles wf-section">
 		<div class="container">
@@ -250,17 +252,15 @@
 		<div class="container">
 			<div class="footer-wrapper-three">
 				<div class="footer-social-block-three">
-					<a href="https://www.instagram.com/tokohmudakerinci/?hl=id" class="footer-social-block-three w-inline-block" loading="lazy" alt="" class="image-6">
-						<div class="text-block">@tokohmudakerinci</div>
-					</a>
 				</div>
 			</div>
 			<div class="footer-divider-two"></div>
 			<div class="footer-bottom">
 				<div class="footer-copyright">@ 2002 Tokoh Muda. All right reserved</div>
 				<div class="footer-legal-block">
-					<a href="https://www.instagram.com/explore/tags/tokohmudakerinci/?hl=id" class="footer-legal-link">#tokohmudakerinci</a>
-					<a href="https://www.instagram.com/explore/tags/2024panggunganakmuda/?hl=id" class="footer-legal-link">#2024panggunganakmuda</a>
+					<a href="https://www.instagram.com/tokohmudakerinci/?hl=id" loading="lazy" alt="" class="link-ig">
+						@tokohmudakerinci
+					</a>
 				</div>
 			</div>
 		</div>
@@ -273,6 +273,7 @@
 				$('#myModal').modal('show');
 			}
 		</script>
+
 	<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
 	  <div class="modal-dialog" role="document">
 	    <div class="modal-content">
@@ -283,7 +284,6 @@
 	      </div>
 	      <div class="modal-footer">
 	        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-	        <button type="button" class="btn btn-primary">Vote</button>
 	      </div>
 	    </div>
 	  </div>
