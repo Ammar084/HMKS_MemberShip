@@ -15,5 +15,8 @@
 	        	<div>
 	        		<a href="https://www.instagram.com/ajwatourindonesia/">Ajwa Tour</a>	
 	        	</div>
+				<div>
+					<a href="https://ajwatour.id/">ajwatour.id</a>
+				</div>
 	        	
 	        </div>
