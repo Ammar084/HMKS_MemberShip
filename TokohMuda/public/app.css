@@ -12,28 +12,44 @@ body{
 nav{
 	display: flex;
 	background-color: #f38600;
-	justify-content: space-around;
-	padding: 10px 0;
-	color: #fff
+	justify-content:space-between;
+	color: #fff;
+	height: 75px;	
 }
 
 nav ul {
 	display: flex;
 	list-style: none;
-	width: 20%;
-	justify-content: space-between;
-	margin-top: 1px;
-	margin-bottom: 1px;
+	justify-content: center;
+	align-items: center;
+	padding-right: 200px;
+	margin-bottom: 0;
+	margin-top: 0;
+}
+
+nav ul li {
+	padding-right:50px ;
+	padding-left:50px;
 }
 
 nav ul li a{
 	color: #fff;
 	text-decoration: none;
-	font-size: 0.8em;
+	font-size: 0.9em;
 }
 
 nav ul li a:hover{
 	color: #000;
+}
+
+.logo{
+	justify-content: center;
+	align-items: center;
+	display: flex;
+}
+
+.logopng{
+	width: 16%;
 }
 
 /*hamberger*/

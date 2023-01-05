@@ -16,7 +16,11 @@
 
 <body>
 	<nav>
+		
 		<div class="logo">
+			
+			<img src="assets/IMG_20221005_220832_378-removebg-preview.png" class="logopng">
+			
 			<h4>Tokoh Muda</h4>
 		</div>
 		
